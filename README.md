@@ -129,6 +129,7 @@ np.mean(predict(res.x,X)==y)
 ![logistic regression using gradient descent](/7.png)
 
 ![logistic regression using gradient descent](/8.png)
+
 ![logistic regression using gradient descent](/9.png)
 
 
