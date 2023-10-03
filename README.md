@@ -113,14 +113,21 @@ np.mean(predict(res.x,X)==y)
 ```
 ## Output:
 ![logistic regression using gradient descent](/1.png)
+
 ![logistic regression using gradient descent](/22.png)
 
 ![logistic regression using gradient descent](/2.png)
+
 ![logistic regression using gradient descent](/3.png)
+
 ![logistic regression using gradient descent](/4.png)
+
 ![logistic regression using gradient descent](/5.png)
+
 ![logistic regression using gradient descent](/6.png)
+
 ![logistic regression using gradient descent](/7.png)
+
 ![logistic regression using gradient descent](/8.png)
 ![logistic regression using gradient descent](/9.png)
 
